@@ -1,0 +1,20 @@
+.n1 {
+    color: black;
+    background-color: rgb(227, 120, 138);
+}
+
+.n3 {
+    font-size: 32px;
+}
+
+#n2 {
+    color: blue;
+    font-size: 48px;
+}
+
+#n4 {
+    color: black;
+    background-color: rgb(165, 239, 54);
+    font-size: 32px;
+    font-weight: bold;
+}
